@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb4cbdba-88b5-4541-a01c-2abaabebf716" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ch08_function/.ipynb_checkpoints/ch08_function-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08_function/.ipynb_checkpoints/ch08_function-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ch08_function/ch08_function.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08_function/ch08_function.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch10_file/.ipynb_checkpoints/ch10_file-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch10_file/ch10_file.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch10_file/numbers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch10_file/p.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch10_file/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex01_removefile/mergebatfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex01_removefile/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex01_removefile/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex01_removefile/count.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ex01_removefile/count.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readGPS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="36" column="50" lean-forward="true" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+            <state relative-caret-position="656">
+              <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
               <folding>
                 <element signature="e#147#162#0" expanded="true" />
               </folding>
@@ -50,10 +57,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1299" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="274" />
+    <option name="y" value="17" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -134,11 +142,12 @@
       <updated>1558400361599</updated>
       <workItem from="1558400377989" duration="3641000" />
       <workItem from="1558512844582" duration="655000" />
+      <workItem from="1559544468386" duration="600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4296000" />
+    <option name="totallyTimeSpent" value="4896000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -150,10 +159,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11673774" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.117803834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -182,8 +191,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/readGPS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="36" column="50" lean-forward="true" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+        <state relative-caret-position="656">
+          <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
           <folding>
             <element signature="e#147#162#0" expanded="true" />
           </folding>
