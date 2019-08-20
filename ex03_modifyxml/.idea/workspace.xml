@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4493e0eb-f2b9-462c-8e7f-ede737143a1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/copyDefectImg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delPanelLabel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex04_dataAugment/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex04_dataAugment/.idea/ex04_dataAugment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex04_dataAugment/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex04_dataAugment/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex04_dataAugment/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex04_dataAugment/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex04_dataAugment/Image_aug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex04_dataAugment/MainTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex04_dataAugment/bbox_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex04_dataAugment/data_aug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex04_dataAugment/read_bbox_xml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/delPanelLabel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="631">
+              <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
               <folding>
                 <element signature="e#154#207#0" expanded="true" />
               </folding>
@@ -148,17 +135,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ex03_modifyxml" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ex03_modifyxml" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,16 +251,21 @@
       <workItem from="1562287143684" duration="1998000" />
       <workItem from="1562901791849" duration="1405000" />
       <workItem from="1562984915236" duration="2487000" />
+      <workItem from="1563248057261" duration="1803000" />
+      <workItem from="1563331727548" duration="3457000" />
+      <workItem from="1563866298467" duration="1414000" />
+      <workItem from="1563932063894" duration="4127000" />
+      <workItem from="1564017255411" duration="774000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32862000" />
+    <option name="totallyTimeSpent" value="44437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13006397" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13539445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -376,8 +358,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/delPanelLabel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        <state relative-caret-position="631">
+          <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
           <folding>
             <element signature="e#154#207#0" expanded="true" />
           </folding>
