@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>红外 上汽安悦4MW 20180811</folder>
+	<filename>20180811_114023.jpg</filename>
+	<path>\\192.168.1.98\ShareData\无人机光伏电站数据\售前试飞数据\平地电站\20180811上汽安悦4MW\红外 上汽安悦4MW 20180811\20180811_114023.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stripe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>239</ymin>
+			<xmax>116</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>266</ymin>
+			<xmax>306</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+
+	<object>
+		<name>spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>575</xmin>
+			<ymin>14</ymin>
+			<xmax>594</xmax>
+			<ymax>39</ymax>
+		</bndbox>
+	</object>
+
+	</annotation>
